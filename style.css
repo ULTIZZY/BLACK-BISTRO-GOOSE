@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(245, 140, 4);
+    font-family: sans-serif; 
+    padding-top: 0%;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 0% 15%;
+}
+
+h1 {
+    color: rgba(6, 6, 204, 0.705);
+    text-decoration: solid;
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: 1px solid rgba(255, 187, 0, 0.918);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: darkblue;
+}
+
